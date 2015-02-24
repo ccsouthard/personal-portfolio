@@ -5,6 +5,8 @@
 1. Plan w/Jeff, goals, steps, resources,
 2. Design
 3. Discuss blog (just add categories? [current art blog](http://chazsouthard.com/blog))
+4. program that cycle removes tediousness
+5. link simple ? / or ?*
 
 ###To Do Later
 
