@@ -7,7 +7,7 @@
 3. Discuss blog (just add categories? [current art blog](http://chazsouthard.com/blog))
 4. program that cycle removes tediousness
 5. link simple ? / or ?*
-
+![]()
 ###To Do Later
 
 #### World
@@ -58,6 +58,7 @@
 ## Content Orphan  "some things i've been up to"
 
 ###Neuro-Science & Spinal Cord Injury Advocacy 
+
 - Published editorials on the future of restorative therapies: *Melrose Free Press*, *Stoneham Sun*, *Tri-Town Transcript*, *AboutHealth.com*, *The Saugus Advertiser*, *United Spinal Association*, and a few more.
 - Designed and developed an online fundraising arm for [W. M. Keck Center for Collaborative Neuroscience](http://keck.rutgers.edu/main.html ).  This website, *JustaDollarPlease.org* raised over 400k to initiate a clinical trials network for spinal cord injury in the United States.
 - Patient advocate at second annual Christopher Reeve Foundation Symposium 2006, Bio-Life Sciences Boston 2007 & Spinal Cord Injury Awareness Day 2005-Present.

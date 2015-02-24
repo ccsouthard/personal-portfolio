@@ -7,12 +7,12 @@ This past July, 2011, I had my first month-long gallery exhibition, "Bubbles &am
 
 When I paint I follow a natural flow of patterns, shapes and textures. I look to create realms that pulls me into a place of curiosity and imagination. I consider the fundamental elements in my work to be the ambiguity of space and time, rhythm, ordered chaos and fluidity of a line.
 
-![Panorama](/exhibits/assets/topsfield-exhibit-2011-1.jpg)
+![Panorama](../artwork/exhibits/assets/topsfield-exhibit-2011-1.jpg)
 
 The "Boxes", or oil paintings emerged organically from meditations on nature, music, poetry and architecture. The paintings are influenced by subjects as diverse as Egyptian Hieroglyphics, wild flowers, a forest canopy, John Coltrane and rock striations. Each painting began as three or four colors that were mixed directly on the canvas until completion.
 
-![Bubbles](/exhibits/assets/topsfield-exhibit-2011-2.jpg)
+![Bubbles](../artwork/exhibits/assets/topsfield-exhibit-2011-2.jpg)
 
 In contrast to the abstract oil paintings, the "Bubbles", the computer generated mandalas (Sanskrit for ‘magic circles’) are symmetrical, ordered, and highly structured. They too began as colors and patterns, but were put through precise systematic movements.
 
-![Exhibit 2011](/exhibits/assets/topsfield-exhibit-2011-3.jpg)
+![Exhibit 2011](../artwork/exhibits/assets/topsfield-exhibit-2011-3.jpg)

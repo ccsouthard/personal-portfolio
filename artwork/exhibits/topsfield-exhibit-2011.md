@@ -1,7 +1,7 @@
 ---
 title: 'Topsfield, MA 2011'
 link: 'http://www.topsfieldtownlibrary.org/Art/art.html'
-desc:'A month-long gallery exhibition, "Bubbles &amp; Boxes". The pieces were selected from a collection of abstract oil paintings and digitally generated artwork.'
+description:'A month-long gallery exhibition, "Bubbles &amp; Boxes". The pieces were selected from a collection of abstract oil paintings and digitally generated artwork.'
 ---
 
 ### Gallery Invitation
@@ -10,9 +10,9 @@ desc:'A month-long gallery exhibition, "Bubbles &amp; Boxes". The pieces were se
 
 ### Gallery Photos
 
-![Thumbnail](assets/topsfield-exhibit-2011-1.jpg)
-![Thumbnail](assets/topsfield-exhibit-2011-2.jpg)
-![Thumbnail](assets/topsfield-exhibit-2011-3.jpg)
+![Mandala Grid](assets/topsfield-exhibit-2011-1.jpg)
+![Panarama](assets/topsfield-exhibit-2011-2.jpg)
+![Panarama](assets/topsfield-exhibit-2011-3.jpg)
 
 ### Gallery Artist Statement 2011
 

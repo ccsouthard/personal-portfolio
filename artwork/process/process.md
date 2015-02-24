@@ -1,14 +1,12 @@
 ---
-title: 'Process'
+title: 'The Process of Creating '555' an Oil Painting'
 ---
 
-## Captions for slideshow
+![Photo Inspiration](assets/555-1.jpg)
+Often inspiration is derived from a photo and abstracted in Photoshop. 555 is shot from the band Phish's musical performance in Worcester, MA. 
 
-Often inspiration is derived from a photo. 555 is shot from the band Phish's musical performance in Worcester, MA.
-![Photo Inspiration](/assets/555-1.jpg)
-
+![Canvas Sketch](assets/555-2.jpg)
 Chaz sketches with a pencil the basic shapes searching for movement on a canvas.
-![Canvas Sketch](/assets/555-2.jpg)
 
+![Exhibit](assets/555-3.jpg)
 After numerous layers of paint, a final work is displayed.
-![Exhibit](/assets/555-3.jpg)

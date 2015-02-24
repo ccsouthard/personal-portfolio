@@ -1,7 +1,7 @@
 ---
 title: 'ArtBeyond Boston, MA 2013'
 link: 'http://www.bostonmagazine.com/health/blog/2013/06/14/art-therapy-exhibit-boston/'
-desc: 'ArtBeyond explores the concept of healing in contemporary art. Just as musicians create harmony from dissonance, artists who have experienced injury or illness find unity, simplicity and peace by exploring the inner realms.'
+description: 'ArtBeyond explores the concept of healing in contemporary art. Just as musicians create harmony from dissonance, artists who have experienced injury or illness find unity, simplicity and peace by exploring the inner realms.'
 ---
 
 ### Gallery Invitation
@@ -26,6 +26,6 @@ His artwork has been displayed at several North Shore Massachusetts galleries.  
 
 #### Press links
 
-- *Boston Magazine*  ["ArtBeyond Exhibit Celebrates Art as Therapy"](http://www.bostonmagazine.com/health/blog/2013/06/14/art-therapy-exhibit-boston/)
+- *Boston Magazine* : ["ArtBeyond Exhibit Celebrates Art as Therapy"](http://www.bostonmagazine.com/health/blog/2013/06/14/art-therapy-exhibit-boston/)
 
-- *Travis Roy Foundation* [Gallery Opening](http://www.travisroyfoundation.org/artbeyonds-opening-gives-back-to-the-travis-roy-foundation/)
+- *Travis Roy Foundation* : ["Artbeyond Gallery Opening"](http://www.travisroyfoundation.org/artbeyonds-opening-gives-back-to-the-travis-roy-foundation/)
