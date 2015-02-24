@@ -1,5 +1,5 @@
 ---
-title: 'The Process of Creating '555' an Oil Painting'
+title: 'The Process of Creating an Oil Painting'
 ---
 
 ![Photo Inspiration](assets/555-1.jpg)
