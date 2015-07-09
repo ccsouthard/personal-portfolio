@@ -1,0 +1,16 @@
+extends layout
+
+prepend head
+  title About | Chaz Southard
+
+block content
+  .content-head
+    h1 About
+
+  section.about-page
+    each thing in site.content.about
+      h2= thing.title
+      !=thing.content
+    each thing in site.content.about.process
+      h2= thing.title
+      != thing.content

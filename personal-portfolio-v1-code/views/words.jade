@@ -1,0 +1,29 @@
+extends layout
+
+prepend head
+  title Words | Chaz Southard
+
+block content
+  .content-head
+    h1 Words
+    .filter
+      p Jump to
+
+  section.words-page
+    each words in site.content.words.poetry
+      .words.poetry
+        if words.link
+          h2: a(href=words.link)= words.title
+        else
+          h2= words.title
+
+        !=words.content
+
+    each words in site.content.words.fiction
+      .words.flash-fiction
+        if words.link
+          h2: a(href=words.link)= words.title
+        else
+          h2= words.title
+
+        !=words.content

@@ -1,0 +1,20 @@
+extends layout
+
+prepend head
+  title Gallery | Chaz Southard
+
+block content
+  .content-head
+    h1 Gallery
+    .filter
+      p Filter
+
+  section.gallery-page
+    each artwork in site.content.artwork.digital
+      .artwork.digital
+        img(src='/img/artwork/digital/'+artwork.img)
+        p= artwork.title
+    each artwork in site.content.artwork.oil
+      .artwork.oil
+        img(src='/img/artwork/oil/'+artwork.img)
+        p= artwork.title

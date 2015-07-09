@@ -1,0 +1,28 @@
+extends layout
+
+prepend head
+  title Home | Chaz Southard
+
+block content
+  section.home-page
+    .hero-container
+      .hero
+        :marked
+          # Take a seat & gaze
+    //-.arrow-container
+      a(href='#'): i.fa.fa-long-arrow-down
+
+    nav
+      .row
+        .item: .gallery
+            p: a(href='/gallery.html') Gallery
+
+        .item: .words
+            p: a(href='/words.html') Words
+
+      .row
+        .item: .about
+          p: a(href='/about.html') About
+
+        .item: .news
+          p: a(href='/news.html') News

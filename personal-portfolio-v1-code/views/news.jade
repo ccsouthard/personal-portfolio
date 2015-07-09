@@ -1,0 +1,14 @@
+extends layout
+
+prepend head
+  title News | Chaz Southard
+
+block content
+  .content-head
+    h1 News &amp; Blog
+
+  section.news-page
+    each news in site.content.news
+      .news
+        h2= news.title
+        !=news.content

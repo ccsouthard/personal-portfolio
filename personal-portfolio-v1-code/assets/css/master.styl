@@ -1,0 +1,161 @@
+@import '_settings'
+@import 'jeet'
+
+normalize-css()
+base()
+
+a
+  text-decoration: none
+
+
+header
+  fixed: top
+  width: 100%
+  color: #fff
+  text-transform: uppercase
+  background-color: #000
+  z-index: 500
+  
+  a
+    color: #fff
+
+  > div
+    col(1/3)
+  
+  .logo
+    text-align: center
+    position: relative
+    font-size: 1.5em
+    line-height: 2.5em
+    letter-spacing: 1.5px
+    a
+      height: header-height
+      display: block
+      border-left: 1px solid white
+      border-right: 1px solid white
+      &:before, &:after
+        content: ""
+        position: absolute
+        width: 7px
+        height: 100%
+        border-color: white
+        border-style: solid
+      &:before
+        left: 0
+        border-width: 0 1px 0 0
+      &:after
+        right: 0
+        border-width: 0 0 0 1px
+  
+  .menu
+    text-align: right
+
+.content-head
+  clearfix()
+  padding: 20px 20px 0 20px
+  h1
+    font-family: raleway
+    font-weight: normal
+    letter-spacing: 2px
+    color: #A3A6AC
+    text-transform: uppercase
+    float: left
+  .filter
+    float: right
+
+
+.page
+  margin-top: header-height
+
+
+.landing-page
+  center(880px)
+  text-align: center
+  padding: 40px 0
+  
+  > div
+    col(1/3)
+  
+  a
+    display: block
+    size: 275px
+    margin: 0 auto
+    border: 1px solid #9B9B9B
+    background-size: cover
+    background-position: center
+    transition: filter 0.25s
+    &:hover
+      filter: grayscale(100%)
+  h2
+    letter-spacing: 2.2px
+  p
+    font-family: raleway
+    font-size: 12px
+    font-weight: 600
+    letter-spacing: 2px
+    color: font-light-color
+
+
+.home-page
+  .hero-container
+    background-image: url('/img/home/hero.jpg')
+    background-size: cover
+    background-position: center right
+    position: relative
+    height: 90vh
+    height: calc(100vh - 52px)
+    height: -moz-calc(100vh - 52px)
+    height: -webkit-calc(100vh - 52px)
+  .hero
+    color: white
+    text-align: center
+    align(both)
+    h1
+      text-transform: uppercase
+      font-family: raleway
+      font-weight: 200
+  
+  nav
+    clearfix()
+    margin-bottom: 10px
+    .item
+      col(1/2, gutter:0)
+      background-color: #555
+      > div
+        position: relative
+        height: 250px
+        border: 1px solid #979797
+      p
+        align()
+      a
+        color: white
+        border: 1px solid  #000
+        display: block
+        text-align: center
+        width: 200px
+        padding: 5px 0
+
+.gallery-page
+  padding: 0 20px
+  .artwork
+    display: inline-block
+    img
+      max-width: 300px
+
+.words-page
+  padding: 0 20px
+
+.news-page
+  padding: 0 20px
+
+.about-page
+  padding: 0 20px
+  img
+    max-width: 200px
+
+footer
+  text-align: center
+  letter-spacing: 2px
+  color: font-light-color
+  font-weight: 500
+  font-size: 0.75em

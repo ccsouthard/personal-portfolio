@@ -1,0 +1,36 @@
+extends layout
+
+prepend head
+  title Chaz Southard
+
+  style(type='text/css').
+    header .menu { display: none; }
+    .web a {
+      background-image: url('/img/landing/web.png');
+    }
+    .art a {
+      background-image: url('/img/landing/art.jpg');
+    }
+    .projects a {
+      background-image: url('/img/landing/projects.png');
+    }
+
+block content
+  nav.landing-page
+    .web
+      a(href='#')
+      :marked
+        ## Web
+        Design & Development
+
+    .art
+      a(href='/home.html')
+      :marked
+        ## Art
+        The Gallery & Words
+
+    .projects
+      a(href='#')
+      :marked
+        ## Projects
+        The Lab
